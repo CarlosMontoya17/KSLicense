@@ -9,21 +9,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+			~ Thanks for use ~
 
-# Header 1
-## Header 2
-### Header 3
+# =============================================================================
+# 			KaptchaResolver v1.0    		  	      
+# 			  by Carlos Montoya                		   
+# =============================================================================
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+2022-04-30 ~ ASJXD-LKYDI-ASDEF-AWRTY-ASCX ~
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
